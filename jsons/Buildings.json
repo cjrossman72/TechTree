@@ -29,8 +29,7 @@
     "culture": 2,
     "production": 4,
     "isWonder": true,
-    // "greatPersonPoints": {"Great Artist": 4},
-    "greatPersonPoints": {"Great Engineer": 1},
+    // "greatPersonPoints": {"Great Artist": 4
 	  "requiredTech": "Theology",
 	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
     "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
@@ -42,7 +41,7 @@
     "food": 3,
 	"Gold": 3,
     "isWonder": true,
-    "greatPersonPoints": {"Great Engineer": 4},
+    // "greatPersonPoints": {"Great Engineer": 4}
     "requiredTech": "Masonry",
     "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
   },
