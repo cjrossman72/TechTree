@@ -98,7 +98,7 @@
         "name": "Corrupted Scripture",
         "type": "Founder",
         "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-25]%",
-                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]"]
+                    "[+33]% Natural religion spread [in all cities in which the majority religion is an enhanced religion]"]
     },
 {
         "name": "Holy Iconography",
@@ -163,7 +163,7 @@
         "name": "Iconoclasm",
         "type": "Founder",
         "uniques": ["[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
-                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]",
+                    "[+33]% Natural religion spread [in all cities in which the majority religion is an enhanced religion]",
                     "[-1 Happiness, -2 Faith] from every [Dyes]"]
     },
 {
