@@ -41,7 +41,7 @@
     "food": 3,
 	"Gold": 3,
     "isWonder": true,
-    // "greatPersonPoints": {"Great Engineer": 4}
+    // "greatPersonPoints": {"Great Engineer": 4
     "requiredTech": "Masonry",
     "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
   },
