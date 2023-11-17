@@ -60,8 +60,8 @@
         "name": "Food Production",
         "uniques": [
           "[+2 Happiness] [in all cities]",
-          "[+1 Food] from [Farm] tiles",
-          "[+1 Food] from [Plantation] tiles"
+          "[+1 Production] from [Farm] tiles",
+          "[+1 Gold] from [Plantation] tiles"
         ],
         "requires": [
           "Cultivation"
