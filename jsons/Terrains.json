@@ -8,12 +8,12 @@
     "culture": 3,
     "overrideStats": true,
     "occursOn": [
-      "Lakes"
+      "Plains"
     ],
     "uniques": [
       "Tile provides yield without assigned population"
     ],
-    "turnsInto": "Lakes",
+    "turnsInto": "Coast",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
@@ -123,7 +123,7 @@
     "uniques": [
       "Neighboring tiles will convert to [Lakes]"
     ],
-    "turnsInto": "Plains",
+    "turnsInto": "Coast",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
@@ -247,12 +247,12 @@
     "faith": 2,
     "overrideStats": true,
     "occursOn": [
-      "Lakes"
+      "Coast"
     ],
     "uniques": [
       "Tile provides yield without assigned population"
     ],
-    "turnsInto": "Lakes",
+    "turnsInto": "Coast",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
