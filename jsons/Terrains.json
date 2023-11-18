@@ -99,7 +99,7 @@
     "faith": 2,
     "overrideStats": true,
     "occursOn": [
-      "Mountain "
+      "Mountain"
     ],
     "uniques": [
       "Adjacent enemy units ending their turn take [10] damage"
@@ -118,7 +118,7 @@
     "happiness": 2,
     "overrideStats": true,
     "occursOn": [
-      "Plains "
+      "Plains"
     ],
     "uniques": [
       "Neighboring tiles will convert to [Lakes]"
@@ -135,7 +135,7 @@
     "happiness": 4,
     "overrideStats": true,
     "occursOn": [
-      "Mountain "
+      "Mountain"
     ],
     "uniques": [
       "Gives a defensive bonus of [+20]%"
@@ -153,13 +153,11 @@
     "culture": 3,
     "faith": 2,
     "overrideStats": true,
-    "occursOn": [
-      "Grassland"
-    ],
+    "occursOn": ["Grassland"],
     "uniques": [
       "All newly-trained [Melee] units [in this city] receive the [Drill I] promotion"
     ],
-    "turnsInto": "Grasslane",
+    "turnsInto": "Grassland",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
@@ -191,7 +189,7 @@
     "happiness": 4,
     "overrideStats": true,
     "occursOn": [
-      "Mountain "
+      "Mountain"
     ],
     "uniques": [
       "Gives a defensive bonus of [+20]%"
@@ -266,7 +264,7 @@
     "happiness": 2,
     "overrideStats": true,
     "occursOn": [
-      "Mountain "
+      "Mountain"
     ],
     "uniques": [
       "Gives a defensive bonus of [+20]%"
@@ -321,7 +319,7 @@
     "happiness": 2,
     "overrideStats": true,
     "occursOn": [
-      "Mountain "
+      "Mountain"
     ],
     "uniques": [
       "Gives a defensive bonus of [+20]%"
