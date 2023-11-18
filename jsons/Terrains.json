@@ -121,7 +121,7 @@
       "Plains"
     ],
     "uniques": [
-      "Neighboring tiles will convert to [Lakes]"
+      "Neighboring tiles will convert to [Coast]"
     ],
     "turnsInto": "Coast",
     "impassable": true,
