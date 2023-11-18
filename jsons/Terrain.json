@@ -16,7 +16,7 @@
     "turnsInto": "Lakes",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 15
   },
   {
     "name": "The Everglades",
@@ -88,7 +88,8 @@
     "turnsInto": "Mountain",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 10
+
   },
   {
     "name": "Kilauea Volcano",
@@ -107,7 +108,7 @@
     "turnsInto": "Mountain",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 8
   },
   {
     "name": "Great Lakes",
@@ -143,7 +144,7 @@
     "turnsInto": "Mountain",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 6
   },
   {
     "name": "Redwood Forest",
@@ -162,7 +163,7 @@
     "turnsInto": "Grasslane",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 10
   },
   {
     "name": "Mamooth Cave",
@@ -179,7 +180,7 @@
     "turnsInto": "Plains",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 8
   },
   {
     "name": "Grand Tetons",
@@ -218,7 +219,7 @@
     "turnsInto": "Plains",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 8
   },
   {
     "name": "Natural Bridge",
@@ -237,7 +238,7 @@
     "turnsInto": "Mountain ",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 8
   },
   {
     "name": "Crater Lake",
@@ -255,7 +256,7 @@
     "turnsInto": "Lakes",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 12
   },
   {
     "name": "Mount Denali",
@@ -293,7 +294,7 @@
     "turnsInto": "Snow",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 15
   },
   {
     "name": "Mount Rainier",
@@ -311,7 +312,7 @@
     "turnsInto": "Mountain ",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 10
   },
   {
     "name": "Pike's Peak",
@@ -329,7 +330,7 @@
     "turnsInto": "Mountain",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 8
   },
   {
     "name": "Monument Rocks",
@@ -366,6 +367,6 @@
     "turnsInto": "Coast",
     "impassable": true,
     "unbuildable": true,
-    "weight": 4
+    "weight": 12
   }
 ]
