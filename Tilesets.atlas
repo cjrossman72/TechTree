@@ -18,17 +18,17 @@ TileSets/FantasyHex/Tiles/Lakes
   orig: 40, 38
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grape
+TileSets/HexaRealm/Tiles/Niagara
   rotate: false
-  xy: 1149, 942
-  size: 64, 56
-  orig: 64, 56
+  xy: 906, 704
+  size: 40, 38
+  orig: 40, 38
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grape+Plantation
+TileSets/HexaRealm/Tiles/Lakes
   rotate: false
-  xy: 1221, 940
-  size: 64, 56
-  orig: 64, 56
+  xy: 906, 804
+  size: 40, 38
+  orig: 40, 38
   offset: 0, 0
   index: -1
