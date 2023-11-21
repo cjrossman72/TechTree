@@ -11,11 +11,11 @@ TileSets/FantasyHex/Tiles/Niagara
   orig: 40, 38
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Grape+Plantation
+TileSets/FantasyHex/Tiles/Lakes
   rotate: false
-  xy: 884, 1014
+  xy: 906, 804
   size: 32, 28
-  orig: 32, 28
+  orig: 40, 38
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Grape
