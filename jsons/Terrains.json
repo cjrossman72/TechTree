@@ -24,12 +24,13 @@
     "food": 2,
     "science": 2,
     "faith": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Grassland"
     ],
     "uniques": [
-      "Must be adjacent to [1] to [5] [Marsh] tiles"
+      "Must be adjacent to [1] to [5] [Marsh] tiles",
+      "Tile provides yield without assigned population"
     ],
     "turnsInto": "Grassland",
     "impassable": true,
@@ -42,7 +43,7 @@
     "gold": 2,
     "science": 2,
     "faith": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Desert"
     ],
@@ -59,7 +60,7 @@
     "type": "NaturalWonder",
     "science": 3,
     "culture": 3,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Desert"
     ],
@@ -121,7 +122,8 @@
       "Plains"
     ],
     "uniques": [
-      "Neighboring tiles will convert to [Coast]"
+      "Neighboring tiles will convert to [Coast]",
+      "Tile provides yield without assigned population"
     ],
     "turnsInto": "Coast",
     "impassable": true,
@@ -138,7 +140,8 @@
       "Mountain"
     ],
     "uniques": [
-      "Grants 500 Gold to the first civilization to discover it"
+      "Grants 500 Gold to the first civilization to discover it",
+      "Tile provides yield without assigned population"
     ],
     "turnsInto": "Mountain",
     "impassable": true,
@@ -152,7 +155,7 @@
     "science": 1,
     "culture": 3,
     "faith": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Grassland"
     ],
@@ -169,7 +172,7 @@
     "type": "NaturalWonder",
     "gold": 3,
     "science": 4,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Plains"
     ],
@@ -189,12 +192,13 @@
     "culture": 3,
     "faith": 1,
     "happiness": 4,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Mountain"
     ],
     "uniques": [
-      "Grants [Ignore terrain cost] ([no mvmt penalty]) to adjacent [Land] units for the rest of the game"
+      "Grants [Ignore terrain cost] ([no mvmt penalty]) to adjacent [Land] units for the rest of the game",
+      "Tile provides yield without assigned population"
     ],
     "turnsInto": "Mountain",
     "impassable": true,
@@ -208,7 +212,7 @@
     "science": 2,
     "culture": 1,
     "happiness": 3,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Plains"
     ],
@@ -227,7 +231,7 @@
     "culture": 3,
     "faith": 2,
     "happiness": 5,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Mountain"
     ],
@@ -245,7 +249,7 @@
     "food": 3,
     "culture": 2,
     "faith": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Coast"
     ],
@@ -264,7 +268,7 @@
     "culture": 3,
     "faith": 2,
     "happiness": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Mountain"
     ],
@@ -283,12 +287,13 @@
     "science": 4,
     "faith": 2,
     "happiness": 5,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Tundra"
     ],
     "uniques": [
-      "Grants [Rejuvenation] ([heal at 2x]) to adjacent [All] units for the rest of the game"
+      "Grants [Rejuvenation] ([heal at 2x]) to adjacent [All] units for the rest of the game",
+      "Tile provides yield without assigned population"
     ],
     "turnsInto": "Snow",
     "impassable": true,
@@ -301,7 +306,7 @@
     "food": 2,
     "science": 1,
     "faith": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Tundra"
     ],
@@ -319,7 +324,7 @@
     "gold": 1,
     "culture": 2,
     "happiness": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Mountain"
     ],
@@ -337,7 +342,7 @@
     "science": 2,
     "culture": 2,
     "faith": 1,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Plains"
     ],
@@ -356,7 +361,7 @@
     "production": 2,
     "culture": 2,
     "happiness": 2,
-    "overrideStats": true,
+    "overrideStats": false,
     "occursOn": [
       "Coast"
     ],
