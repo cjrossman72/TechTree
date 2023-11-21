@@ -6,9 +6,9 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Niagara
   rotate: false
-  xy: 906, 704
-  size: 40, 38
-  orig: 40, 38
+  xy: 516, 650
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lakes
