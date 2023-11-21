@@ -4,11 +4,11 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Grape
+TileSets/FantasyHex/Tiles/Niagara
   rotate: false
   xy: 906, 704
-  size: 32, 28
-  orig: 32, 28
+  size: 40, 38
+  orig: 40, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grape+Plantation
