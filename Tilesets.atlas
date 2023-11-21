@@ -4,7 +4,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Niagara
+TileSets/FantasyHex/Tiles/Niagara Falls
   rotate: false
   xy: 516, 650
   size: 32, 32
