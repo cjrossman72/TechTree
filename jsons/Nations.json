@@ -47,7 +47,7 @@
     ]
   },
   {
-    "name": "Minoan civilization",
+    "name": "Minoan Empire",
     "leaderName": "King Minos",
     "adjective": [
       "Minoan"
@@ -121,7 +121,7 @@
       255
     ],
     "favoredReligion": "Taoism",
-    "uniqueName": "Architecture",
+    "uniqueName": "Architects",
     "uniques": [
       "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Hill] tiles>",
       "May choose [1] additional belief(s) of any type when [enhancing] a religion",
@@ -168,7 +168,7 @@
       255
     ],
     "favoredReligion": "Zoroastrianism",
-    "uniqueName": "Shepherd ",
+    "uniqueName": "Warlord ",
     "uniques": [
       "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
       "[+20]% Production when constructing [Melee] units [in all cities]",
