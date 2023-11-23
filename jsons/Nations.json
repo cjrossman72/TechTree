@@ -123,7 +123,7 @@
     "favoredReligion": "Taoism",
     "uniqueName": "Architecture",
     "uniques": [
-      "[+1 Faith] from [Coast] tiles [in all cities]",
+      "[+1 Faith] from [Stone] tiles [in all cities]",
       "May choose [1] additional belief(s) of any type when [enhancing] a religion",
       "Gain a free [Shrine] [in all cities]"
     ],
