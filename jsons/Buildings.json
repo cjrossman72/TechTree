@@ -1,81 +1,115 @@
 [
   {
-    "name": "Sacred Space",
-    "cost": 100,
-    "hurryCostModifier": 100,
-    "faith": 5,
-    "maintenance": 3,
-    "specialistSlots": {
-      "Ascetic": 2
+    "name": "Fortress of Naram-Sin",
+    "uniqueTo": "Akkadia",
+    "replaces": "Colosseum",
+    "science": 2,
+    "happiness": 2,
+    "cost": 120,
+    "maintenance": 2,
+    "requiredTech": "Construction",
+    "requiredBuilding": "Walls",
+    "specialist": {
+      "Merchant": 1
     },
-    "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
+    "unique": [
+      "[+20]% Strength",
+      "[20]% of excess happiness converted to [Production]"
+    ]
   },
   {
-    "name": "College of Theology",
-    "cost": 180,
-    "hurryCostModifier": 180,
-    "faith": 4,
-    "science": 4,
-    "maintenance": 6,
-    "requiredTech": "Theology",
-    "specialistSlots": {
-      "Philosopher": 2
+    "name": "Caravanserai",
+    "uniqueTo": "Akkadia",
+    "replaces": "Market",
+    "food": 1,
+    "gold": 3,
+    "happiness": 1,
+    "cost": 150,
+    "requiredTech": "Currency",
+    "specialist": {
+      "Merchant": 1
     },
-    "uniques": ["Hidden when religion is disabled"]
+    "unique": [
+      "[+2 Gold] from [Sheep] tiles [in this city]",
+      "[+2 Gold] from [Cattle] tiles [in this city]"
+    ]
   },
   {
-    "name": "St Peter's Basilica",
-    "faith": 8,
+    "name": "Oinoanda Amphitheater",
+    "uniqueTo": "Lycia",
+    "replaces": "Amphitheater",
     "culture": 2,
-    "production": 4,
-    "isWonder": true,
-    // "greatPersonPoints": {"Great Artist": 4
-	  "requiredTech": "Theology",
-	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
-    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    "happiness": 3,
+    "cost": 120,
+    "maintenance": 2,
+    "requiredTech": "Drama and Poetry",
+    "requiredBuilding": "Monument",
+    "specialist": {
+      "Artist": 1
+    },
+    "unique": [
+      "[10]% growth [in this city]"
+    ]
   },
   {
-    "name": "Fushimi Inari Taisha",
-    "faith": 4,
-    "culture": 4,
-    "food": 3,
-	"Gold": 3,
-    "isWonder": true,
-    // "greatPersonPoints": {"Great Engineer": 4
-    "requiredTech": "Masonry",
-    "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
+    "name": "Royal Villa",
+    "uniqueTo": "Minoan Empire",
+    "replaces": "Garden",
+    "culture": 2,
+    "faith": 1,
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Theology",
+    "unique": [
+      "[+25]% Great Person generation [in this city]",
+      "Must be next to [Fresh water]"
+    ]
   },
-{
-		"name": "Pura Agung",
-		"cost": 0,
-		"faith": 3,
-		"food": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Barong] appears"]
-	},
-{
-		"name": "Icon of Saint Mercurius",
-		"cost": 0,
-		"faith": 2,
-		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [St Mercurius] appears"]
-	},
-{
-		"name": "The Hanging Church",
-		"cost": 0,
-		"faith": 2,
-		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Simon the Tanner] appears"]
-	},
-{
-		"name": "Hueyi Teocalli",
-		"cost": 0,
-		"faith": 2,
-		"Gold": 1,
-		"culture": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Tlaloc] appears"]
-	}
+  {
+    "name": "Hall of Columns",
+    "uniqueTo": "Minoan Empire",
+    "culture": 2,
+    "faith": 1,
+    "cost": 120,
+    "requiredTech": "Masonry",
+    "requiredBuilding": "Colosseum",
+    "specialist": {
+      "Engineer": 1
+    },
+    "unique": [
+      "[+1 Production] from [Stone] tiles [in this city]",
+      "[+1 Production] from [Marble] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Great Wharf",
+    "uniqueTo": "Sea Peoples",
+    "replaces": "Harbor",
+    "food": 2,
+    "production": 1,
+    "gold": 1,
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Compass",
+    "unique": [
+      "[+1 Food] from [Fishing Boats] tiles [in this city]",
+      "Connects trade routes over water",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Shipyard",
+    "uniqueTo": "Sea Peoples",
+    "production": 2,
+    "gold": 2,
+    "cost": 120,
+    "requiredTech": "Engineering",
+    "requiredBuilding": "Lighthouse",
+    "specialist": {
+      "Merchant": 1
+    },
+    "unique": [
+      "[+2 Production] from [Water resource] tiles [in this city]"
+    ]
+  }
 ]
