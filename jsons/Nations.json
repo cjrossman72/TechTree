@@ -30,8 +30,8 @@
     "uniqueName": "Pirates",
     "uniques": [
       "Enables embarkation for land units",
-      "Enables [Water] units to enter ocean tiles",
-      "Starts with [Sailing]"
+      "Starts with [Sailing]",
+      "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)"
     ],
     "cities": [
       "Peleset",
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "name": "Minoan Empire",
+    "name": "Minoan civilization",
     "leaderName": "King Minos",
     "adjective": [
       "Minoan"
@@ -77,8 +77,8 @@
     "uniqueName": "Bullfighter",
     "uniques": [
       "[+20]% Production when constructing [Culture] buildings [in all cities]",
-      "[+20]% Production when constructing [Culture] wonders [in all cities]",
-      "Starts with [Pottery]"
+      "Starts with [Pottery]",
+      "Free Great Person <upon discovering a Natural Wonder>"
     ],
     "cities": [
       "Knossos",
@@ -121,11 +121,11 @@
       255
     ],
     "favoredReligion": "Taoism",
-    "uniqueName": "Architects",
+    "uniqueName": "Architecture",
     "uniques": [
       "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Hill] tiles>",
       "May choose [1] additional belief(s) of any type when [enhancing] a religion",
-      "Gain a free [Shrine] [in all cities]"
+      "Free Technology <upon declaring friendship>"
     ],
     "cities": [
       "Patara",
@@ -142,7 +142,7 @@
   },
   {
     "name": "Akkadia",
-    "leaderName": "Sargon of Akkad",
+    "leaderName": "King Sargon the Great",
     "adjective": [
       "Akkadian"
     ],
@@ -168,7 +168,7 @@
       255
     ],
     "favoredReligion": "Zoroastrianism",
-    "uniqueName": "Warlord ",
+    "uniqueName": "Shepherd ",
     "uniques": [
       "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
       "[+20]% Production when constructing [Melee] units [in all cities]",
