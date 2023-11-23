@@ -111,9 +111,9 @@
     "hateHello": "We are much more cultured than you.",
     "tradeRequest": "Let's make a deal.",
     "outerColor": [
-      245,
-      204,
-      154
+      171,
+      141,
+      107
     ],
     "innerColor": [
       255,
@@ -123,8 +123,8 @@
     "favoredReligion": "Taoism",
     "uniqueName": "Architecture",
     "uniques": [
-      "[+1 Faith] from [Hill] tiles [in all cities]",
-      "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
+      "[+1 Faith] from [Hills] tiles [in all cities]",
+      "May choose [1] additional belief(s) of any type when [enhancing] a religion",
       "Gain a free [Shrine] [in all cities]"
     ],
     "cities": [
