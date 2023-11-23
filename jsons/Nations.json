@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Sea Peoples",
+    "leaderName": "Kukunnis, son of Lukka",
+    "adjective": [
+      "Sea People"
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Domination",
+    "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
+    "attacked": "Your attack on us will be your death ",
+    "defeated": "We bow to your power.",
+    "introduction": "",
+    "neutralHello": "We sail the mighty seas looking for new cultures.",
+    "hateHello": "The seas are ours! Stay out of the waters.",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      3,
+      140,
+      252
+    ],
+    "innerColor": [
+      207,
+      255,
+      241
+    ],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Pirates",
+    "uniques": [
+      "Enables embarkation for land units",
+      "Enables [Water] units to enter ocean tiles",
+      "Starts with [Sailing]"
+    ],
+    "cities": [
+      "Peleset",
+      "Teresh",
+      "Tyrsenoi",
+      "Luka",
+      "Sherden",
+      "Shekelesh",
+      "Siculi",
+      "Ekwesh",
+      "Ahhiyawa",
+      "Anatolia"
+    ]
+  },
+  {
+    "name": "Minoan civilization",
+    "leaderName": "King Minos",
+    "adjective": [
+      "Minoan"
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Scientific",
+    "declaringWar": "By our strength, we will  verthrow thy seed",
+    "attacked": "You have shed our blood. Now we will shed yours!",
+    "defeated": "Your power is superior to ours ",
+    "introduction": "",
+    "neutralHello": "Our island welcomes you ",
+    "hateHello": "Leave us be ",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      20,
+      30,
+      143
+    ],
+    "innerColor": [
+      222,
+      223,
+      227
+    ],
+    "favoredReligion": "Judaism",
+    "uniqueName": "Bullfighter",
+    "uniques": [
+      "[+20]% Production when constructing [Culture] buildings [in all cities]",
+      "[+20]% Production when constructing [Culture] wonders [in all cities]",
+      "Starts with [Pottery]"
+    ],
+    "cities": [
+      "Knossos",
+      "Phaistos",
+      "Hagia Triada",
+      "Kommos",
+      "Malia",
+      "Kato Zakros",
+      "Galatas",
+      "Pseira",
+      "Gournia",
+      "Pyrgos"
+    ]
+  },
+  {
+    "name": "Lycia",
+    "leaderName": "Kuberniskos Sika",
+    "adjective": [
+      ""
+    ],
+    "startBias": [
+      "Mountain"
+    ],
+    "preferredVictoryType": "Cultured",
+    "declaringWar": "No land can stand before our arms",
+    "attacked": "An eye dor an eye. Now you die!",
+    "defeated": "We lay our swords at your feet.",
+    "introduction": "",
+    "neutralHello": "We greet you in the name of peace.",
+    "hateHello": "We are much more cultured than you.",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      245,
+      204,
+      154
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "favoredReligion": "Taoism",
+    "uniqueName": "Architecture",
+    "uniques": [
+      "[+1 Faith] from [Hill] tiles [in all cities]",
+      "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
+      "Gain a free [Shrine] [in all cities]"
+    ],
+    "cities": [
+      "Patara",
+      "Xanthos",
+      "Myra",
+      "Pinara",
+      "Tlos",
+      "Antalya",
+      "Olympos",
+      "Phaselis",
+      "Telmessos",
+      "Krya"
+    ]
+  },
+  {
+    "name": "Akkadia",
+    "leaderName": "Sargon of Akkad",
+    "adjective": [
+      "Akkadian"
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Diplomatic",
+    "declaringWar": "We will tear out thy foundations and destroy thy progeny ",
+    "attacked": "You dare besiege us! We will go forth to battle and defeat you!",
+    "defeated": "We bow to thee who has destroyed our vast army.",
+    "introduction": "",
+    "neutralHello": "Our greatness will not compare with you but welcome.",
+    "hateHello": "Fear our might and power!",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      148,
+      48,
+      18
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "favoredReligion": "Zoroastrianism",
+    "uniqueName": "Shepherd ",
+    "uniques": [
+      "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
+      "[+20]% Production when constructing [Melee] units [in all cities]",
+      "New [Melee] units start with [10] Experience [in all cities]"
+    ],
+    "cities": [
+      "Akkad",
+      "Adab ",
+      "Mari ",
+      "Nuzi",
+      "Marad",
+      "Nippur",
+      "Tutub",
+      "Ebla",
+      "Brak",
+      "Nagar"
+    ]
+  }
+]
