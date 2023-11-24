@@ -24,7 +24,8 @@
     "cost": 75,
     "requiredTech": "Sailing",
     "uniques ": [
-      "Founds a new city"
+      "Founds a new city",
+      "Can transform to [Warrior]"
     ],
     "attackSound": "nonmetalhit"
   },
