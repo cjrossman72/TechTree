@@ -1,66 +1,77 @@
 [
   {
-    "name": "Barong",
-		"unitType": "Deity",
-	  	"rangedStrength": "70",
-		"movement": "3",
-	  	"range": "3",
-	  	"cost": "2000",
-		"strength": "90",
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "Eliminates combat penalty for attacking over a river"],
+    "name": "Mercenary",
+    "unitType": "Sword",
+    "uniqueTo": "Akkadia",
+    "replaces": "Warrior",
+    "movement": 3,
+    "strength": 12,
+    "cost": 60,
+    "upgradesTo": "Swordsman",
+    "obsoleteTech": "Metal Casting",
+    "uniques ": [
+      "Can move after attacking"
+    ],
+    "promotion": "Ignores terrain cost",
+    "attackSound": "nonmetalhit"
   },
-	{
-    "name": "St Mercurius",
-		"unitType": "Deity",
-		"movement": "4",
-		"strength": "85",
-		"cost": "2000",
-		"promotions": ["Blitz"],
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "[+15]% Strength bonus for [Military] units within [2] tiles"],
+  {
+    "name": "Pioneer",
+    "unitType": "Scout",
+    "uniqueTo": "Sea Peoples",
+    "movement": 3,
+    "strength": 16,
+    "cost": 75,
+    "requiredTech": "Sailing",
+    "uniques ": [
+      "Founds a new city"
+    ],
+    "attackSound": "nonmetalhit"
   },
-	{
-    "name": "Simon the Tanner",
-		"unitType": "Deity",
-		"movement": "2",
-		"strength": "300",
-		"cost": "2000",
-  "uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [2]","Blast radius [2]","Invisible to non-adjacent units",
-	      "Eliminates combat penalty for attacking over a river","Self-destructs when attacking"],
+  {
+    "name": "Mounted Archer",
+    "unitType": "Archery",
+    "uniqueTo": "Lycia",
+    "replaces": "Chariot Archer",
+    "movement": 4,
+    "strength": 7,
+    "rangedStrength": 10,
+    "cost": 80,
+    "requiredTech": "Horseback Riding",
+    "requiredResource": "Horses",
+    "uniques ": [
+      "Double movement in [{Plains} {Grassland} {Desert}]"
+    ],
+    "attackSound": "nonmetalhit"
   },
-	{
-    "name": "Tlaloc",
-		"unitType": "DeityAir",
-		"movement": "1",
-		"strength": "60",
-		"rangedStrength": "60",
-		"interceptRange": "8",
-		"range": "8",
-		"cost": "2000",
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit",
-	      "[-30]% Strength for enemy [Military] units in adjacent [All] tiles",
-"[70]% chance to intercept air attacks",
-	      "Cannot be intercepted","[2] additional attacks per turn"],
+  {
+    "name": "Colonial Ship",
+    "unitType": "Ranged Water",
+    "uniqueTo": "Minoan Empire",
+    "replaces": "Galleass",
+    "movement": 3,
+    "strength": 15,
+    "rangedStrength": 16,
+    "cost": 100,
+    "requiredTech": "Compass",
+    "upgradesTo": "Frigate",
+    "obsoleteTech": "Navigation",
+    "uniques ": [
+      "Can carry [1] [Land] units"
+    ],
+    "attackSound": "nonmetalhit"
   },
-	{
-    "name": "Bodhisattva",
-		"unitType": "Deity",
-		"movement": "3",
-		"strength": "25",
-                "cost": 108,
-  "uniques": ["Unbuildable","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "May capture killed [All] units","[+64]% Strength <when defending>","Can [Spread Religion] [2] times"],
-  },
-	{
-    "name": "Onmyoji",
-		"unitType": "Archery",
-		"movement": "2",
-		"strength": "7",
-                "cost": 64,
-		"range": "2",
-		"rangedStrength": "21",
-  "uniques": ["Unbuildable","Never appears as a Barbarian unit","[+5]% Strength bonus for [Military] units within [2] tiles",
-	      "[-5]% Strength for enemy [Military] units in adjacent [All] tiles"],
-}
+  {
+    "name": "Watcher",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 8,
+    "cost": 100,
+    "requiredTech": "Construction",
+    "uniques ": [
+      "Can instantly construct a [Watchtower] improvement <once>"
+    ],
+    "promotion": "Ignores terrain cost",
+    "attackSound": "nonmetalhit"
+  }
 ]
