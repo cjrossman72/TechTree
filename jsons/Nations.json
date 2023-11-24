@@ -77,7 +77,7 @@
     "uniqueName": "Bullfighter",
     "uniques": [
       "[+20]% Production when constructing [Culture] buildings [in all cities]",
-      "Starts with [Pottery]",
+      "Enables [Scout] units to enter ocean tiles",
       "Free Great Person <upon discovering a Natural Wonder>"
     ],
     "cities": [
