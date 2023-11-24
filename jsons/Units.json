@@ -41,7 +41,9 @@
     "requiredTech": "Horseback Riding",
     "requiredResource": "Horses",
     "uniques ": [
-      "Double movement in [{Plains} {Grassland} {Desert}]",
+      "Double movement in [Plains]",
+      "Double movement in [Grassland]",
+      "Double movement in [Desert]",
       "Can move after attacking"
     ],
     "attackSound": "nonmetalhit"
