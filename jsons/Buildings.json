@@ -30,8 +30,8 @@
       "Merchant": 1
     },
     "uniques": [
-      "[+2 Gold] from [Sheep] tiles [in this city]",
-      "[+2 Gold] from [Cattle] tiles [in this city]"
+      "[+2 Gold] from [Pasture] tiles [in this city]",
+      "[+2 Gold] from [Camp] tiles [in this city]"
     ]
   },
   {
@@ -122,7 +122,7 @@
     "requiredBuilding": "Barracks",
     "uniques": [
       "Can be built outside your borders",
-      "Reveal up to [all] [All] within a [10] tile radius"
+      "Reveal up to [All] [All] within a [10] tile radius"
     ]
   }
 ]
