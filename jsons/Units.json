@@ -7,7 +7,7 @@
     "movement": 3,
     "strength": 12,
     "cost": 60,
-    "upgradesTo": "Swordsman",
+    "upgradesTo": "Spearman",
     "obsoleteTech": "Metal Casting",
     "uniques ": [
       "Can move after attacking"
@@ -41,7 +41,8 @@
     "requiredTech": "Horseback Riding",
     "requiredResource": "Horses",
     "uniques ": [
-      "Double movement in [{Plains} {Grassland} {Desert}]"
+      "Double movement in [{Plains} {Grassland} {Desert}]",
+      "Can move after attacking"
     ],
     "attackSound": "nonmetalhit"
   },
