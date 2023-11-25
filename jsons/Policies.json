@@ -134,12 +134,12 @@
           "Free [Spearman] appears",
           "[+2 Production] from [Ivory] tiles [in all cities]"
         ],
-        "requires": [
-          "Landownership",
-          "Labor"
-        ],
         "row": 2,
-        "column": 4
+        "column": 4,
+        "requires": [
+          "Subsistence",
+          "Foraging"
+        ]
       },
       {
         "name": "Prosperity",
