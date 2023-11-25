@@ -46,8 +46,8 @@
         "name": "Cooperative",
         "uniques": [
           "[25]% Food is carried over after population increases [in this city]",
-          "[+2 Production] per [4] population [in this city]",
-          "[+10]% [Food] from City-States"
+          "[+2 Culture] per [4] population [in this city]",
+          "[+10]% [food] from City-States"
         ],
         "requires": [
           "Landownership",
@@ -59,9 +59,9 @@
       {
         "name": "Food Production",
         "uniques": [
-          "[+2 Happiness] [in all cities]",
-          "[+2 Production] from [Farm] tiles [in all cities]",
-          "[+2 Gold] from [Plantation] tiles [in all cities]"
+          "[+2 happiness] [in all cities]",
+          "[+1 food] from [Farm] tiles",
+          "[+1 food] from [Plantation] tiles"
         ],
         "requires": [
           "Cultivation"
@@ -75,6 +75,93 @@
           "[+20]% Yield from every [Farm]",
           "[+20]% Yield from every [Plantation]",
           "Empire enters golden age"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hunter-Gatherer",
+    "era": "Ancient era",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 0,
+      "Diplomatic": 0,
+      "Domination": 10,
+      "Scientific": 10
+    },
+    "uniques": [
+      "Discover [Archery]",
+      "[+1 Food] from [Forest] tiles [in all cities]",
+      "[+1 Science] from [Jungle] tiles [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Subsistence",
+        "uniques": [
+          "[20]% Food is carried over after population increases [in all cities]",
+          "Free [Archer] appears"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Foraging",
+        "uniques": [
+          "[+1 Food] from [Citrus] tiles [in all cities]",
+          "[+1 Food] from [Bananas] tiles [in all cities]"
+        ],
+        "row": 1,
+        "column": 5
+      },
+      {
+        "name": "Hunting",
+        "uniques": [
+          "[+1 Food] from [Deer] tiles [in all cities]",
+          "[+1 Production] from [Fur] tiles [in all cities]",
+          "[3] Range <for [Archery] units>"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Subsistence",
+          "Foraging"
+        ]
+      },
+      {
+        "name": "Big Game",
+        "uniques": [
+          "Discover [Bronze Working]",
+          "Free [Spearman] appears",
+          "[+2 Production] from [Ivory] tiles [in all cities]"
+        ],
+        "requires": [
+          "Landownership",
+          "Labor"
+        ],
+        "row": 2,
+        "column": 4
+      },
+      {
+        "name": "Prosperity",
+        "uniques": [
+          "[+2 Culture] from [Cocoa] tiles [in all cities]",
+          "[+2 Culture] from [Spice] tiles [in all cities]",
+          "[+1 Happiness] from [Camp] tiles"
+        ],
+        "requires": [
+          "Hunting",
+          "Big Game"
+        ],
+        "row": 3,
+        "column": 3
+      },
+      {
+        "name": "Hunter-Gatherer Complete",
+        "uniques": [
+          "[+20]% Yield from every [Camp]",
+          "Free Technology",
+          "Empire enters golden age",
+          "Free Great Person"
         ]
       }
     ]
