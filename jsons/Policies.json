@@ -47,7 +47,7 @@
         "uniques": [
           "[25]% Food is carried over after population increases [in this city]",
           "[+2 Culture] per [4] population [in this city]",
-          "[+10]% [food] from City-States"
+          "[+10]% [Food] from City-States"
         ],
         "requires": [
           "Landownership",
@@ -59,9 +59,9 @@
       {
         "name": "Food Production",
         "uniques": [
-          "[+2 happiness] [in all cities]",
-          "[+1 food] from [Farm] tiles",
-          "[+1 food] from [Plantation] tiles"
+          "[+2 Happiness] [in all cities]",
+          "[+1 Food] from [Farm] tiles",
+          "[+1 Food] from [Plantation] tiles"
         ],
         "requires": [
           "Cultivation"
