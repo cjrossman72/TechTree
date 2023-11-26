@@ -7,9 +7,11 @@
     "movement": 3,
     "strength": 12,
     "cost": 60,
-    "upgradesTo": "Spearman",
+    "upgradesTo": "Swordsman",
     "obsoleteTech": "Metal Casting",
-    "uniques": ["Can move after attacking"],
+    "uniques": [
+      "Can move after attacking"
+    ],
     "promotion": "Ignores terrain cost",
     "attackSound": "nonmetalhit"
   },
@@ -21,7 +23,9 @@
     "strength": 16,
     "cost": 75,
     "requiredTech": "Sailing",
-    "uniques": ["Founds a new city","Can transform to [Warrior]"],
+    "uniques": [
+      "Founds a new city"
+    ],
     "attackSound": "nonmetalhit"
   },
   {
@@ -35,7 +39,9 @@
     "cost": 80,
     "requiredTech": "Horseback Riding",
     "requiredResource": "Horses",
-    "uniques": ["Double movement in [Plains]","Double movement in [Grassland]","Double movement in [Desert]","Can move after attacking"],
+    "uniques": [
+      "Double movement in [{Plains} {Grassland} {Desert}]"
+    ],
     "attackSound": "nonmetalhit"
   },
   {
@@ -50,7 +56,7 @@
     "requiredTech": "Compass",
     "upgradesTo": "Frigate",
     "obsoleteTech": "Navigation",
-    "uniques ": [
+    "uniques": [
       "Can carry [1] [Land] units"
     ],
     "attackSound": "nonmetalhit"
@@ -62,7 +68,7 @@
     "strength": 8,
     "cost": 100,
     "requiredTech": "Construction",
-    "uniques ": [
+    "uniques": [
       "Can instantly construct a [Watchtower] improvement <once>"
     ],
     "promotion": "Ignores terrain cost",
@@ -80,7 +86,7 @@
     "requiredResource": "Horses",
     "upgradesTo": "Cavalry",
     "obsoleteTech": "Military Science",
-    "uniques ": [
+    "uniques": [
       "Can Spread Religion <once>",
       "Can move after attacking",
       "No defensive terrain bonus"
