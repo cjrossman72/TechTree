@@ -88,7 +88,7 @@
     "cost": 125,
     "requiredTech": "Chivalry",
     "requiredResource": "Horses",
-    "upgradesTo": "Calvary",
+    "upgradesTo": "Calvry",
     "obsoleteTech": "Military Science",
     "uniques ": [
       "Can Spread Religion <once>",
