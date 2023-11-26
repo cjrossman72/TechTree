@@ -9,9 +9,7 @@
     "cost": 60,
     "upgradesTo": "Spearman",
     "obsoleteTech": "Metal Casting",
-    "uniques ": [
-      "Can move after attacking"
-    ],
+    "uniques": ["Can move after attacking"],
     "promotion": "Ignores terrain cost",
     "attackSound": "nonmetalhit"
   },
@@ -23,10 +21,7 @@
     "strength": 16,
     "cost": 75,
     "requiredTech": "Sailing",
-    "uniques ": [
-      "Founds a new city",
-      "Can transform to [Warrior]"
-    ],
+    "uniques": ["Founds a new city","Can transform to [Warrior]"],
     "attackSound": "nonmetalhit"
   },
   {
@@ -40,12 +35,7 @@
     "cost": 80,
     "requiredTech": "Horseback Riding",
     "requiredResource": "Horses",
-    "uniques ": [
-      "Double movement in [Plains]",
-      "Double movement in [Grassland]",
-      "Double movement in [Desert]",
-      "Can move after attacking"
-    ],
+    "uniques": ["Double movement in [Plains]","Double movement in [Grassland]","Double movement in [Desert]","Can move after attacking"],
     "attackSound": "nonmetalhit"
   },
   {
