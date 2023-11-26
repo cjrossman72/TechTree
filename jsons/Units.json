@@ -72,7 +72,8 @@
       "Can instantly construct a [Watchtower] improvement <once>"
     ],
     "promotion": "Ignores terrain cost",
-    "attackSound": "nonmetalhit"
+    "attackSound": "nonmetalhit",
+    "uniqueTo": "Lycia"
   },
   {
     "name": "Crusader",
