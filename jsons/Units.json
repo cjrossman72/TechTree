@@ -77,5 +77,25 @@
     ],
     "promotion": "Ignores terrain cost",
     "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Crusader",
+    "unitType": "Mounted",
+    "uniqueTo": "Portugal",
+    "replaces": "Knight",
+    "movement": 5,
+    "strength": 25,
+    "cost": 125,
+    "requiredTech": "Chivalry",
+    "requiredResource": "Horses",
+    "upgradesTo": "Calvary",
+    "obsoleteTech": "Military Science",
+    "uniques ": [
+      "Can Spread Religion <once>",
+      "Can move after attacking",
+      "No defensive terrain bonus"
+    ],
+    "promotion": "March",
+    "attackSound": "Horse"
   }
 ]
