@@ -113,21 +113,23 @@
     ]
   },
   {
-    "name": "Watchtower",
-    "uniqueTo": "Lycia",
+    "name": "Sagrada Família",
+    "uniqueTo": "Spain",
     "culture": 2,
-    "science": 1,
+    "faith": 2,
     "cost": 200,
     "requiredTech": "Construction",
-    "requiredBuilding": "Barracks",
+    "requiredBuilding": "Temple",
     "uniques": [
-      "Can be built outside your borders",
-      "Reveal up to [All] [All] within a [10] tile radius"
-    ]
+      "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
+      "[+20]% Spread Religion Strength"
+    ],
+    "greatPersonPoints": {
+      "Great Prophet": 2
+    }
   },
   {
     "name": "Monestary",
-    "uniqueTo": "",
     "culture": 2,
     "faith": 2,
     "happiness": 1,
