@@ -10,7 +10,8 @@
     "upgradesTo": "Swordsman",
     "obsoleteTech": "Metal Casting",
     "uniques": [
-      "Can move after attacking"
+      "Can move after attacking",
+      "May upgrade to [Spearman] through ruins-like effects"
     ],
     "promotion": "Ignores terrain cost",
     "attackSound": "nonmetalhit"
@@ -24,7 +25,8 @@
     "cost": 75,
     "requiredTech": "Sailing",
     "uniques": [
-      "Founds a new city"
+      "Founds a new city",
+      "May travel on Water tiles without embarking"
     ],
     "attackSound": "nonmetalhit"
   },
@@ -70,7 +72,9 @@
     "cost": 100,
     "requiredTech": "Construction",
     "uniques": [
-      "Can instantly construct a [Watchtower] improvement <once>"
+      "[+2] Sight",
+      "Uncapturable",
+      "Can see over obstacles"
     ],
     "promotion": "Ignores terrain cost",
     "attackSound": "nonmetalhit",

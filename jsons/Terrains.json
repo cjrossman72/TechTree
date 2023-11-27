@@ -8,15 +8,15 @@
     "culture": 3,
     "overrideStats": true,
     "occursOn": [
-      "Plains"
+      "Lakes"
     ],
     "uniques": [
       "Tile provides yield without assigned population"
     ],
-    "turnsInto": "Coast",
+    "turnsInto": "Lakes",
     "impassable": true,
     "unbuildable": true,
-    "weight": 12
+    "weight": 4
   },
   {
     "name": "The Everglades",
@@ -24,13 +24,12 @@
     "food": 2,
     "science": 2,
     "faith": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Grassland"
     ],
     "uniques": [
-      "Must be adjacent to [1] to [5] [Marsh] tiles",
-      "Tile provides yield without assigned population"
+      "Must be adjacent to [1] to [5] [Marsh] tiles"
     ],
     "turnsInto": "Grassland",
     "impassable": true,
@@ -43,7 +42,7 @@
     "gold": 2,
     "science": 2,
     "faith": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Desert"
     ],
@@ -60,7 +59,7 @@
     "type": "NaturalWonder",
     "science": 3,
     "culture": 3,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Desert"
     ],
@@ -122,10 +121,9 @@
       "Plains"
     ],
     "uniques": [
-      "Neighboring tiles will convert to [Coast]",
-      "Tile provides yield without assigned population"
+      "Neighboring tiles will convert to [Lakes]"
     ],
-    "turnsInto": "Coast",
+    "turnsInto": "Plains",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
@@ -140,8 +138,7 @@
       "Mountain"
     ],
     "uniques": [
-      "Grants 500 Gold to the first civilization to discover it",
-      "Tile provides yield without assigned population"
+      "Grants 500 Gold to the first civilization to discover it"
     ],
     "turnsInto": "Mountain",
     "impassable": true,
@@ -155,7 +152,7 @@
     "science": 1,
     "culture": 3,
     "faith": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Grassland"
     ],
@@ -172,7 +169,7 @@
     "type": "NaturalWonder",
     "gold": 3,
     "science": 4,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Plains"
     ],
@@ -192,13 +189,12 @@
     "culture": 3,
     "faith": 1,
     "happiness": 4,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Mountain"
     ],
     "uniques": [
-      "Grants [Ignore terrain cost] ([no mvmt penalty]) to adjacent [Land] units for the rest of the game",
-      "Tile provides yield without assigned population"
+      "Grants [Ignore terrain cost] ([no mvmt penalty]) to adjacent [Land] units for the rest of the game"
     ],
     "turnsInto": "Mountain",
     "impassable": true,
@@ -212,7 +208,7 @@
     "science": 2,
     "culture": 1,
     "happiness": 3,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Plains"
     ],
@@ -231,7 +227,7 @@
     "culture": 3,
     "faith": 2,
     "happiness": 5,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Mountain"
     ],
@@ -249,14 +245,14 @@
     "food": 3,
     "culture": 2,
     "faith": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
-      "Coast"
+      "Lakes"
     ],
     "uniques": [
       "Tile provides yield without assigned population"
     ],
-    "turnsInto": "Coast",
+    "turnsInto": "Lakes",
     "impassable": true,
     "unbuildable": true,
     "weight": 4
@@ -268,7 +264,7 @@
     "culture": 3,
     "faith": 2,
     "happiness": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Mountain"
     ],
@@ -287,13 +283,12 @@
     "science": 4,
     "faith": 2,
     "happiness": 5,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Tundra"
     ],
     "uniques": [
-      "Grants [Rejuvenation] ([heal at 2x]) to adjacent [All] units for the rest of the game",
-      "Tile provides yield without assigned population"
+      "Grants [Rejuvenation] ([heal at 2x]) to adjacent [All] units for the rest of the game"
     ],
     "turnsInto": "Snow",
     "impassable": true,
@@ -306,7 +301,7 @@
     "food": 2,
     "science": 1,
     "faith": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Tundra"
     ],
@@ -324,7 +319,7 @@
     "gold": 1,
     "culture": 2,
     "happiness": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Mountain"
     ],
@@ -342,7 +337,7 @@
     "science": 2,
     "culture": 2,
     "faith": 1,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Plains"
     ],
@@ -361,7 +356,7 @@
     "production": 2,
     "culture": 2,
     "happiness": 2,
-    "overrideStats": false,
+    "overrideStats": true,
     "occursOn": [
       "Coast"
     ],
