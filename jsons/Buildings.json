@@ -121,7 +121,7 @@
     "requiredTech": "Construction",
     "requiredBuilding": "Temple",
     "uniques": [
-      "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
+      "May choose [1] additional belief(s) of any type when [enhancing] a religion",
       "[+20]% Spread Religion Strength"
     ],
     "greatPersonPoints": {
