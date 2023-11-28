@@ -222,8 +222,7 @@
     "uniques": [
       "Starts with [Archery]",
       "[Great Merchant] is earned [+20]% faster",
-      "[Archer] units gain the [Accuracy I] promotion",
-      "[Quick Archer] units gain the [Accuracy I] promotion",
+      "[Ranged] units gain the [Survivalism I] promotion",
       "[+20]% Gold from Great Merchant trade missions"
     ],
     "cities": [

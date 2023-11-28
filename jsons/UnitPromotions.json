@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Flame Arrow",
+    "prerequisites": [
+      "Accuracy I",
+      "Barrage I"
+    ],
+    "uniques": [
+      "[+50]% Strength <vs [Melee] units>",
+      "[+50]% Strength <vs [Ranged] units>",
+      "+30% Strength when fighting City-State units and cities"
+    ],
+    "unitTypes": [
+      "Archery"
+    ],
+    "column": 3,
+    "row": 2
+  },
+  {
+    "name": "Colonize",
+    "prerequisites": [
+      "Scouting I",
+      "Survivalism I"
+    ],
+    "uniques": [
+      "Founds a new city <once>",
+      "[+1] Sight"
+    ],
+    "unitTypes": [
+      "Scout"
+    ],
+    "column": 7,
+    "row": 1
+  },
+  {
+    "name": "Survivalism I",
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action",
+      "[+5] HP when healing <in [Foreign Land] tiles>"
+    ],
+    "unitTypes": [
+      "Scout",
+      "Ranged"
+    ],
+    "column": 9,
+    "row": 1
+  }
+]
