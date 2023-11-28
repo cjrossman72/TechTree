@@ -220,10 +220,11 @@
     "favoredReligion": "Judaism",
     "uniqueName": "Susiana ",
     "uniques": [
-      "[+20]% Gold from Great Merchant trade missions",
+      "Starts with [Archery]",
       "[Great Merchant] is earned [+20]% faster",
-      "[Archery] units gain the [Accuracy I] promotion",
-      "Starts with [Archery]"
+      "[Archer] units gain the [Accuracy I] promotion",
+      "[Quick Archer] units gain the [Accuracy I] promotion",
+      "[+20]% Gold from Great Merchant trade missions"
     ],
     "cities": [
       "Susa",
