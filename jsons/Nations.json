@@ -222,8 +222,10 @@
     "uniques": [
       "Starts with [Archery]",
       "[Great Merchant] is earned [+20]% faster",
-      "[Archery] units gain the [Survivalism I] promotion",
-      "[+20]% Gold from Great Merchant trade missions"
+      "[Ranged] units gain the [Survivalism I] promotion",
+      "[+20]% Gold from Great Merchant trade missions",
+      "[Archer] units gain the [Survivalism I] promotion",
+      "[Quick Archer] units gain the [Survivalism I] promotion"
     ],
     "cities": [
       "Susa",
