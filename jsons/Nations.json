@@ -12,8 +12,8 @@
     "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
     "attacked": "Your attack on us will be your death ",
     "defeated": "We bow to your power.",
-    "introduction": "",
-    "neutralHello": "We sail the mighty seas looking for new cultures.",
+    "introduction": "The Sea Peoples were a seafaring confederation that attacked ancient Egypt and other regions in the East Mediterranean before and during the Late Bronze Age collapse (1200–900 BC). The Sea Peoples' incursions became one of the most famous chapters of Egyptian history.",
+    "neutralHello": "We sail the mighty seas looking for new nations to plunder.",
     "hateHello": "The seas are ours! Stay out of the waters.",
     "tradeRequest": "Let's make a deal.",
     "outerColor": [
@@ -31,8 +31,8 @@
     "uniques": [
       "Enables embarkation for land units",
       "Starts with [Sailing]",
-      "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
-      "[+1 Science] from [Atoll] tiles [in all cities]"
+      "[+1 Science] from [Atoll] tiles [in all cities]",
+      "[+1 Faith] from [Atoll] tiles [in all cities]"
     ],
     "cities": [
       "Peleset",
@@ -186,6 +186,56 @@
       "Ebla",
       "Brak",
       "Nagar"
+    ]
+  },
+  {
+    "name": "Elam",
+    "leaderName": "Shutruk-Nakhkhunte",
+    "adjective": [
+      "Elamite"
+    ],
+    "startBias": [
+      "Grassland",
+      "Plains",
+      "Avoid [Tundra]"
+    ],
+    "preferredVictoryType": "Cultural",
+    "declaringWar": "Elam takes up the quiver, with her charioteers and horses - Isaiah 22:6",
+    "attacked": "You dare besiege us! We will go forth to battle and defeat you!",
+    "defeated": "We surrender now but know this: 'I will restore the fortunes of Elam in days to come, declares the Lord' - Jeremiah 49:39",
+    "introduction": "Elam was an ancient civilization centered in the far west and southwest of modern-day Iran. Elam traded extensively with the Indus Valley civilization.\nIn the Old Testament, Elam is described as a land of archers.",
+    "neutralHello": "Our greatness will not compare with you but welcome.",
+    "hateHello": "Fear our might and power!",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      105,
+      20,
+      44
+    ],
+    "innerColor": [
+      182,
+      245,
+      66
+    ],
+    "favoredReligion": "Judaism",
+    "uniqueName": "Susiana ",
+    "uniques": [
+      "[+20]% Gold from Great Merchant trade missions",
+      "[Great Merchant] is earned [+20]% faster",
+      "[Archery] units gain the [Accuracy I] promotion",
+      "Starts with [Archery]"
+    ],
+    "cities": [
+      "Susa",
+      "Anshan ",
+      "Anwan",
+      "Bani Surmah",
+      "Chigha Sabz",
+      "Kamtarlan",
+      "Sardant",
+      "Gulal-i Galbi",
+      "Hamanu",
+      "Kalleh Nisar"
     ]
   }
 ]

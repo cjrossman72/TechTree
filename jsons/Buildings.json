@@ -9,9 +9,6 @@
     "maintenance": 2,
     "requiredTech": "Construction",
     "requiredBuilding": "Walls",
-    "specialist": {
-      "Merchant": 1
-    },
     "uniques": [
       "[+20]% Strength",
       "[20]% of excess happiness converted to [Production]"
@@ -26,13 +23,13 @@
     "happiness": 1,
     "cost": 150,
     "requiredTech": "Currency",
-    "specialist": {
-      "Merchant": 1
-    },
     "uniques": [
       "[+2 Gold] from [Sheep] tiles [in this city]",
       "[+2 Gold] from [Cattle] tiles [in this city]"
-    ]
+    ],
+    "specialistSlots": {
+      "Merchant": 1
+    }
   },
   {
     "name": "Oinoanda Amphitheater",
@@ -44,12 +41,12 @@
     "maintenance": 2,
     "requiredTech": "Drama and Poetry",
     "requiredBuilding": "Monument",
-    "specialist": {
-      "Artist": 1
-    },
     "uniques": [
       "[10]% growth [in this city]"
-    ]
+    ],
+    "specialistSlots": {
+      "Artist": 1
+    }
   },
   {
     "name": "Royal Villa",
@@ -73,13 +70,13 @@
     "cost": 120,
     "requiredTech": "Masonry",
     "requiredBuilding": "Colosseum",
-    "specialist": {
-      "Engineer": 1
-    },
     "uniques": [
       "[+1 Production] from [Stone] tiles [in this city]",
       "[+1 Production] from [Marble] tiles [in this city]"
-    ]
+    ],
+    "specialistSlots": {
+      "Engineer": 1
+    }
   },
   {
     "name": "Great Wharf",
@@ -110,7 +107,10 @@
     },
     "uniques": [
       "[+2 Production] from [Water resource] tiles [in this city]"
-    ]
+    ],
+    "specialistSlots": {
+      "Merchant": 1
+    }
   },
   {
     "name": "Sagrada Família",
@@ -135,9 +135,6 @@
     "happiness": 1,
     "cost": 100,
     "requiredTech": "Masonry",
-    "specialist": {
-      "Cleric": 3
-    },
     "greatPersonPoints": {
       "Great Prophet": 2
     },
@@ -145,11 +142,13 @@
       "Hidden when religion is disabled",
       "[+20]% Spread Religion Strength",
       "Can only be built [in holy cities]"
-    ]
+    ],
+    "specialistSlots": {
+      "Cleric": 1
+    }
   },
   {
     "name": "Tannery",
-    "uniqueTo": "",
     "science": 1,
     "cost": 75,
     "requiredTech": "Trapping",
@@ -171,5 +170,23 @@
       "[-20]% City-State Influence degradation",
       "Free Social Policy"
     ]
+  },
+  {
+    "name": "Chogha Zanbil",
+    "gold": 1,
+    "faith": 2,
+    "culture": 3,
+    "cost": 100,
+    "requiredTech": "Philosophy",
+    "requiredBuilding": "Temple",
+    "uniques": [
+      "May choose [1] additional [Follower] beliefs when [Enhancing] a religion",
+      "[-20]% City-State Influence degradation",
+      "Free Social Policy"
+    ],
+    "uniqueTo": "Elam",
+    "specialistSlots": {
+      "Cleric": 1
+    }
   }
 ]

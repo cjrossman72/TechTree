@@ -99,5 +99,41 @@
     ],
     "promotion": "March",
     "attackSound": "Horse"
+  },
+  {
+    "name": "Quadrireme",
+    "unitType": "Ranged Water",
+    "uniqueTo": "Sea Peoples",
+    "replaces": "Trireme",
+    "movement": 4,
+    "strength": 13,
+    "rangedStrength": 16,
+    "cost": 100,
+    "requiredTech": "Sailing",
+    "upgradesTo": "Frigate",
+    "obsoleteTech": "Navigation",
+    "uniques": [
+      "Can carry [1] [Land] units",
+      "May heal outside of friendly territory",
+      "Can move after attacking"
+    ],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Quick Archer",
+    "unitType": "Archery",
+    "uniqueTo": "Elam",
+    "movement": 4,
+    "strength": 10,
+    "rangedStrength": 13,
+    "cost": 100,
+    "requiredTech": "Construction",
+    "requiredResource": "Horses",
+    "uniques": [
+      "[+1] Sight",
+      "[1] additional attacks per turn"
+    ],
+    "attackSound": "nonmetalhit",
+    "replaces": "Composite Bowman"
   }
 ]
