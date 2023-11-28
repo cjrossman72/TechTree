@@ -180,7 +180,7 @@
     "requiredTech": "Philosophy",
     "requiredBuilding": "Temple",
     "uniques": [
-      "May choose [1] additional [Follower] beliefs when [Enhancing] a religion",
+      "May choose [1] additional [Follower] beliefs when [enhancing] a religion",
       "[-20]% City-State Influence degradation",
       "Free Social Policy"
     ],
