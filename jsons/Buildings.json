@@ -188,5 +188,33 @@
     "specialistSlots": {
       "Cleric": 1
     }
+  },
+  {
+    "name": "Grotto",
+    "faith": 1,
+    "cost": 25,
+    "uniques": [
+      "[+25]% Great Person generation [in this city]"
+    ]
+  },
+  {
+    "name": "Barn",
+    "Food": 1,
+    "Production": 1,
+    "cost": 40,
+    "requiredTech": "Animal Husbandry",
+    "uniques": [
+      "[+1 Food] from [Cattle] tiles [in this city]",
+      "[+1 Food] from [Sheep] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Brickworks",
+    "Production": 2,
+    "cost": 50,
+    "requiredTech": "Masonry",
+    "uniques": [
+      "[+1 Production] from [Stone] tiles [in this city]"
+    ]
   }
 ]
