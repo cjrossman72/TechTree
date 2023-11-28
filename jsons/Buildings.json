@@ -173,16 +173,16 @@
   },
   {
     "name": "Chogha Zanbil",
-    "gold": 1,
-    "faith": 2,
-    "culture": 3,
+    "faith": 1,
+    "culture": 2,
     "cost": 100,
     "requiredTech": "Philosophy",
     "requiredBuilding": "Temple",
     "uniques": [
       "May choose [1] additional [Follower] beliefs when [enhancing] a religion",
-      "[-20]% City-State Influence degradation",
-      "Free Social Policy"
+      "[+1 Faith] from [Incense] tiles [in this city]",
+      "[+1 Production] from [Stone] tiles [in this city]",
+      "[+1 Production] from [Marble] tiles [in this city]"
     ],
     "uniqueTo": "Elam",
     "specialistSlots": {
