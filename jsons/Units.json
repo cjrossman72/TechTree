@@ -133,6 +133,9 @@
       "[1] additional attacks per turn"
     ],
     "attackSound": "nonmetalhit",
-    "replaces": "Composite Bowman"
+    "replaces": "Composite Bowman",
+    "promotions": [
+      "Quick Shot"
+    ]
   }
 ]
