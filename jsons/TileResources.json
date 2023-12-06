@@ -59,7 +59,7 @@
       "Plains",
       "Grassland"
     ],
-    "revealedBy": "Animal Husbandry ",
+    "revealedBy": "Animal Husbandry",
     "food": 1,
     "improvement": "Camp",
     "improvementStats": {
@@ -439,7 +439,7 @@
       "Plains",
       "Grassland"
     ],
-    "revealedBy": "Archery ",
+    "revealedBy": "Archery",
     "gold": 2,
     "improvement": "Camp",
     "improvementStats": {
@@ -456,7 +456,6 @@
     "name": "Jewelry",
     "resourceType": "Luxury",
     "gold": 2,
-    "revealedBy": "n/a",
     "uniques": [
       "Can only be created by Mercantile City-States"
     ]
@@ -551,7 +550,6 @@
     "name": "Porcelain",
     "resourceType": "Luxury",
     "gold": 2,
-    "revealedBy": "n/a",
     "uniques": [
       "Can only be created by Mercantile City-States"
     ]
