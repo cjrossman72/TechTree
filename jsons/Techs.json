@@ -653,7 +653,7 @@
     "wonderCost": 1060,
     "techs": [
       {
-        "name": "Biochemistry",
+        "name": "Refrigeration",
         "row": 2,
         "prerequisites": [
           "Biology"
