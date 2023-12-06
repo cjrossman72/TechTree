@@ -550,8 +550,7 @@
         "name": "Scientific Theory",
         "row": 4,
         "prerequisites": [
-          "Architecture",
-          "Applied Math"
+          "Architecture"
         ],
         "quote": ""
       },
