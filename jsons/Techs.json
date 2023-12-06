@@ -337,7 +337,6 @@
         "name": "Compass",
         "row": 1,
         "prerequisites": [
-          "Optics",
           "Theology"
         ],
         "quote": ""
@@ -750,7 +749,6 @@
         "name": "Pharmaceuticals",
         "row": 2,
         "prerequisites": [
-          "Refrigeration",
           "Plastics"
         ],
         "quote": ""
