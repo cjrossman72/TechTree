@@ -495,8 +495,7 @@
         "name": "Empiricism",
         "row": 4,
         "prerequisites": [
-          "Applied Math",
-          "Education"
+          "Applied Math"
         ],
         "quote": "",
         "uniques": [
