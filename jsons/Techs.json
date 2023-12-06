@@ -687,7 +687,6 @@
         "name": "Railroads",
         "row": 8,
         "prerequisites": [
-          "Machining",
           "Steam Power",
           "Dynamite"
         ],
@@ -862,7 +861,6 @@
         "name": "Advanced Ballistics",
         "row": 5,
         "prerequisites": [
-          "Computers",
           "Nuclear Fission",
           "Rocketry"
         ],
