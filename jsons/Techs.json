@@ -626,7 +626,6 @@
         "name": "Steam Power",
         "row": 7,
         "prerequisites": [
-          "Metallurgy",
           "Industrialization",
           "Machining"
         ],
