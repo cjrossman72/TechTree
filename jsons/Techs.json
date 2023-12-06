@@ -710,7 +710,7 @@
         "name": "Plastics",
         "row": 3,
         "prerequisites": [
-          "Biochemistry",
+          "Refrigeration",
           "Replaceable Parts"
         ],
         "quote": ""
@@ -753,7 +753,7 @@
         "name": "Pharmaceuticals",
         "row": 2,
         "prerequisites": [
-          "Biochemistry",
+          "Refrigeration",
           "Plastics"
         ],
         "quote": ""
