@@ -488,8 +488,7 @@
         "name": "Empiricism",
         "row": 4,
         "prerequisites": [
-          "Applied Math",
-          "Education"
+          "Applied Math"
         ],
         "quote": "'All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.' - Immanuel Kant"
       },
@@ -541,8 +540,7 @@
         "name": "Scientific Theory",
         "row": 4,
         "prerequisites": [
-          "Architecture",
-          "Applied Math"
+          "Architecture"
         ],
         "quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
       },
