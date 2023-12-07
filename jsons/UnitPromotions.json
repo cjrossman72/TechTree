@@ -48,9 +48,9 @@
     "row": 1
   },
   {
-    "name": "Survivalism I",
+    "name": "Swift Move",
     "uniques": [
-      "Unit will heal every turn, even if it performs an action",
+      "Can move after attacking",
       "[+5] HP when healing <in [Foreign Land] tiles>"
     ],
     "unitTypes": [
