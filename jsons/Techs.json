@@ -217,6 +217,17 @@
     "wonderCost": 250,
     "techs": [
       {
+        "name": "Maritime Trade",
+        "row": 1,
+        "prerequisites": [
+          "Optics"
+        ],
+        "quote": "'To reach a port, we must sail – sail, not tie at anchor – sail, not drift.' - Franklin D.Roosevelt",
+        "uniques": [
+          "May heal outside of friendly territory <for [Water] units>"
+        ]
+      },
+      {
         "name": "Philosophy",
         "row": 2,
         "prerequisites": [
